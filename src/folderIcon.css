@@ -1,0 +1,28 @@
+.icon.folder:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/folder.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.list.collapsible.hidden .tile .icon.folder:before {
+  display: inline-block;
+  content: "";
+  color: transparent;
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/folder.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.list.collapsible .tile .icon.folder:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/folder-open.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}

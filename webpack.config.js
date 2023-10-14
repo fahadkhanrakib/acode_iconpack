@@ -1,19 +1,26 @@
-const { exec } = require('child_process');
-const path = require('path');
+const { exec } = require("child_process");
+const path = require("path");
 
 module.exports = (env, options) => {
-  const { mode = 'development' } = options;
+  const { mode = "development" } = options;
   const rules = [
     {
       test: /\.m?js$/,
       use: [
-        'html-tag-js/jsx/tag-loader.js',
+        "html-tag-js/jsx/tag-loader.js",
         {
-          loader: 'babel-loader',
+          loader: "babel-loader",
           options: {
-            presets: ['@babel/preset-env'],
+            presets: ["@babel/preset-env"],
           },
         },
+      ],
+    },
+    {
+      test: /\.css$/,
+      use: [
+        "style-loader", // Injects styles into the DOM
+        "css-loader", // Translates CSS into CommonJS
       ],
     },
   ];
@@ -21,12 +28,15 @@ module.exports = (env, options) => {
   const main = {
     mode,
     entry: {
-      main: './src/main.js',
+      main: "./src/main.js",
     },
     output: {
-      path: path.resolve(__dirname, 'dist'),
-      filename: '[name].js',
-      chunkFilename: '[name].js',
+      path: path.resolve(
+        __dirname,
+        "dist"
+      ),
+      filename: "[name].js",
+      chunkFilename: "[name].js",
     },
     module: {
       rules,
@@ -34,9 +44,9 @@ module.exports = (env, options) => {
     plugins: [
       {
         apply: (compiler) => {
-          compiler.hooks.afterDone.tap('pack-zip', () => {
+          compiler.hooks.afterDone.tap("pack-zip", () => {
             // run pack-zip.js
-            exec('node .vscode/pack-zip.js', (err, stdout, stderr) => {
+            exec("node .vscode/pack-zip.js", (err, stdout, stderr) => {
               if (err) {
                 console.error(err);
                 return;
@@ -44,10 +54,10 @@ module.exports = (env, options) => {
               console.log(stdout);
             });
           });
-        }
-      }
+        },
+      },
     ],
   };
 
   return [main];
-}
+};

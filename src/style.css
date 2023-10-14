@@ -1,0 +1,1477 @@
+.file_type_erlang:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/erlang.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_actionscript:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/actionscript.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_assembly:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/ae.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_ai:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/ai.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_angular:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/angular.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_applescript:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/applescript.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_zip:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/zip.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_audio:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/audio.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_babel:before,
+.file_type_babelrc:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/babel.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_binary:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/binary.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_hex:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/hex.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_blade:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/blade.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_bower:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/bower.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_c:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/c.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_cf:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/cf.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_circleci:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/circleci.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_clojure:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/clojure.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_coffeescript:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/coffeescript.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_composer:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/composer.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_cpp:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/cpp.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_csharp:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/csharp.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_css:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/css.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_table:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/table.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_csv:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/csv.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_dart:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/dart.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+/*.file_type_default:before {
+    display: inline-block;
+    content: '';
+    background-image: url('https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/default.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 1.2em;
+    width: 1.2em;
+}*/
+.file_type_dlang:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/dlang.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_docker:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/docker.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_dotnet:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/dotnet.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_editorconfig:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/editorconfig.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_elm:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/elm.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+
+.file_type_react_ts:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/react_ts.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_erlang:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/erlang.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_eslint:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/eslint.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_ex:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/ex.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_excel:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/excel.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_font:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/font.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_git:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/git.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_go:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/go.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_gql:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/gql.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_gradle:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/gradle.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_graphviz:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/graphviz.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_groovy:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/groovy.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_pnpm:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/pnpm.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+
+.file_type_gruntfile:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/gruntfile.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_gulpfile:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/gulpfile.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_haml:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/haml.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_haskell:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/haskell.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_haxe:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/haxe.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_html:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/html.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_webhint:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/webhint.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_image:before,
+.file_type_gif:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/image.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_indesign:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/indesign.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_java:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/java.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_jest:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/jest.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_javascript:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/javascript.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_json:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/json.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_jsp:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/jsp.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_react:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/react.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_julia:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/julia.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_jupyter:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/jupyter.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_kotlin:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/kotlin.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_less:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/less.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_license:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/license.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_liquid:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/liquid.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_lisp:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/lisp.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_lock:before,
+.file_type_dotenv:before,
+.file_type_env:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/lock.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_log:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/log.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_lsl:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/lsl.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_lua:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/lua.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_markdown:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/markdown.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.4em;
+  width: 1.4em;
+}
+.file_type_markup:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/markup.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_matlab:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/matlab.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_maya:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/maya.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_mustache:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/mustache.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_nginx:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/nginx.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_nodejs:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/nodejs.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_note:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/note.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_npm:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/npm.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_nsis:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/nsis.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_ocaml:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/ocaml.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_onenote:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/onenote.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_pdf:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/pdf.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_perl:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/perl.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_php:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/php.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_plist:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/plist.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_postcss:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/postcss.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_postcssconfig:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/postcss.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_powerpoint:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/powerpoint.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_powershell:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/powershell.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_preferences:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/preferences.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_premiere:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/premiere.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_procfile:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/procfile.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_psd:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/psd.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_psm:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/psm.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_pug:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/pug.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_puppet:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/puppet.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_python:before,
+.file_type_py:before,
+.file_type_pyc:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/python.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_rails:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/rails.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_reasonml:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/reasonml.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_disc:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/disc.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+
+.file_type_riot:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/riot.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_rollup:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/rollup.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_ruby:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/ruby.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_rust:before,
+.file_type_rs:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/rust.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_sass:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/sass.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_scala:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/scala.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_scss:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/scss.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_settings:before,
+.file_type_conf:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/settings.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_shell:before,
+.file_type_sh:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/shell.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_sketch:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/sketch.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_slim:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/slim.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_source:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/source.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_sql:before,
+.file_type_db:before,
+.file_type_sqlite:before,
+.file_type_sqlite3:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/sql.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_stata:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/stata.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_stylelint:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/stylelint.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_stylus:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/stylus.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_sublime:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/sublime.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_svelte:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/svelte.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_svg:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/svg.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_vscode:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/vscode.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_swift:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/swift.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_tcl:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/tcl.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_tern:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/tern.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_tex:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/tex.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_document:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/document.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_txt:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/text.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_textile:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/textile.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_todo:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/todo.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_twig:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/twig.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_typescript:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/typescript.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_typescript-def:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/typescript-def.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_video:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/video.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_vim:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/vim.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_vue:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/vue.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_wasm:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/wasm.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_webpack:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/webpack.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_windows:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/windows.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_word:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/word.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_yaml:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/yaml.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_yarn:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/yarn.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_astro:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/astro.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_certificate:before,
+.file_type_crt:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/certificate.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_deno:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/deno.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_django:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/django.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_godot:before,
+.file_type_gd:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/godot.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_key:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/key.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_kivy:before,
+.file_type_kv:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/kivy.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_tailwindcss:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/tailwindcss.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_zig:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/zig.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_replit:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/replit.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_mojo:before,
+.file_type_🔥:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/mojo.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_nix:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/nixos.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_poetry:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/poetry.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_qwik:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/qwik.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_react_ts:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/react_ts.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_tauri:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/tauri.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_vite:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/vite.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_bun:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/bun.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_bun:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/bun.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_tsconfig:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/tsconfig.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
+.file_type_jsconfig:before {
+  display: inline-block;
+  content: "";
+  background-image: url("https://localhost/__cdvfile_files-external__/plugins/acode.iconpack/icons/jsconfig.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1.2em;
+  width: 1.2em;
+}
